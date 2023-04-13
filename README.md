@@ -1,3 +1,10 @@
+# My-App
+
+- Create a Go app
+  - run `go mod init github.com/rajatgupta24/go-app-sbom`
+  - 
+
+
 - Building Hello world project
   - go mod init
   - create a main.go and add a func

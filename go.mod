@@ -1,3 +1,3 @@
-module example.com/go-app
+module github.com/rajatgupta24/my-app
 
 go 1.19
